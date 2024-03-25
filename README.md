@@ -8,7 +8,7 @@ I am talha full stack Developer, I love to learn new technologies related to web
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [muhammadtalha6063@gmail.com](mailto:muhammadtalha6063@gmail.com)
-* 🚀  I'm currently working on [Centher](http://app.centher.io)
+* 🚀  I'm currently working on my projects
 * 🧠  I'm learning Blockchain
 * ⚡  I loved boxing, Gym
 
