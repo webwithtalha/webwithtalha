@@ -6,10 +6,10 @@ Full Stack Web Developer
 
 I am talha full stack Developer, I love to learn new technologies related to web applications. Currently i am working on frameworks or library like Reactjs | Nextjs | Expressjs | Nodejs | Nestjs | Smart contracts | Web3 | Solidity
 
-* 🌍  I'm based in Pakistan
+* 🌍  I'm based in England
 * ✉️  You can contact me at [muhammadtalha6063@gmail.com](mailto:muhammadtalha6063@gmail.com)
 * 🚀  I'm currently working on my projects
-* 🧠  I'm learning Blockchain
+* 🧠  I'm learning AI
 * ⚡  I loved boxing, Gym
 
 ### Skills
